@@ -6,9 +6,9 @@ public class Rectangle {
     private double area;
     private double perimeter ;
 
-     Rectangle ( double l, double b ){
-        length = l;
-        breadth = b;
+     Rectangle ( double length, double breadth){
+        this.length = length;
+        this.breadth = breadth;
 
     }
     void areaofRectangle(){
