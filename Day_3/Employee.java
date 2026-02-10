@@ -18,10 +18,11 @@ public class Employee {
         } else {
             System.out.println("Your bonus is 5%");
         }
-        check=false;
+        
         sc.close();
-        }
+        
     }
+}
 
     public static void main(String[] args) {
         Employee emp = new Employee();
