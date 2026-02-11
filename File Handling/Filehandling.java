@@ -6,7 +6,7 @@ public class Filehandling {
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);
-        String fileName = "students.txt";
+        String fileName = "abc.txt";
 
         try {
             // -------- WRITING TO FILE --------
